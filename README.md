@@ -1,2 +1,2 @@
 # datasets
-For storing all of data for public use.
+For storing data for public use.
